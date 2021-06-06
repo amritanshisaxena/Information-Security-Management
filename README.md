@@ -1,1 +1,1 @@
-# Random
+Working on kali and Ubuntu
